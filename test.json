@@ -1,0 +1,17 @@
+[
+  {
+    "ID": 1,
+    "Name": "Thomas",
+    "City": "Wake Forest"
+  },
+  {
+    "ID": 2,
+    "Name": "Mads",
+    "City": "Boulder"
+  },
+  {
+    "ID": 3,
+    "Name": "Lara",
+    "City": "Chapel Hill"
+  }
+]
