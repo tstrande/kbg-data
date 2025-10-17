@@ -1,0 +1,2752 @@
+{
+  "adjLastPx": [
+    {
+      "Date": "2024-01-30",
+      "Overall Rank": 4.0,
+      "Random Forest": 3.0,
+      "XG Boost": 14.0,
+      "K-Best": 21.0,
+      "Mutual Info": 10.0,
+      "PCA": 12.0
+    },
+    {
+      "Date": "2024-02-28",
+      "Overall Rank": 2.0,
+      "Random Forest": 5.0,
+      "XG Boost": 9.0,
+      "K-Best": 22.0,
+      "Mutual Info": 10.0,
+      "PCA": 13.0
+    },
+    {
+      "Date": "2024-03-30",
+      "Overall Rank": 1.0,
+      "Random Forest": 2.0,
+      "XG Boost": 9.0,
+      "K-Best": 23.0,
+      "Mutual Info": 11.0,
+      "PCA": 15.0
+    },
+    {
+      "Date": "2024-04-29",
+      "Overall Rank": 2.0,
+      "Random Forest": 2.0,
+      "XG Boost": 8.0,
+      "K-Best": 21.0,
+      "Mutual Info": 12.0,
+      "PCA": 13.0
+    },
+    {
+      "Date": "2024-05-30",
+      "Overall Rank": 1.0,
+      "Random Forest": 2.0,
+      "XG Boost": 12.0,
+      "K-Best": 22.0,
+      "Mutual Info": 13.0,
+      "PCA": 13.0
+    },
+    {
+      "Date": "2024-06-29",
+      "Overall Rank": 6.0,
+      "Random Forest": 3.0,
+      "XG Boost": 10.0,
+      "K-Best": 27.0,
+      "Mutual Info": 10.0,
+      "PCA": 26.0
+    },
+    {
+      "Date": "2024-07-30",
+      "Overall Rank": 11.0,
+      "Random Forest": 4.0,
+      "XG Boost": 16.0,
+      "K-Best": 28.0,
+      "Mutual Info": 7.0,
+      "PCA": 30.0
+    },
+    {
+      "Date": "2024-08-30",
+      "Overall Rank": 4.0,
+      "Random Forest": 5.0,
+      "XG Boost": 9.0,
+      "K-Best": 28.0,
+      "Mutual Info": 7.0,
+      "PCA": 26.0
+    },
+    {
+      "Date": "2024-09-29",
+      "Overall Rank": 6.0,
+      "Random Forest": 4.0,
+      "XG Boost": 18.0,
+      "K-Best": 23.0,
+      "Mutual Info": 10.0,
+      "PCA": 15.0
+    },
+    {
+      "Date": "2024-10-30",
+      "Overall Rank": 2.0,
+      "Random Forest": 4.0,
+      "XG Boost": 12.0,
+      "K-Best": 24.0,
+      "Mutual Info": 7.0,
+      "PCA": 14.0
+    },
+    {
+      "Date": "2024-11-29",
+      "Overall Rank": 2.0,
+      "Random Forest": 3.0,
+      "XG Boost": 9.0,
+      "K-Best": 21.0,
+      "Mutual Info": 7.0,
+      "PCA": 14.0
+    },
+    {
+      "Date": "2024-12-30",
+      "Overall Rank": 7.0,
+      "Random Forest": 4.0,
+      "XG Boost": 10.0,
+      "K-Best": 30.0,
+      "Mutual Info": 6.0,
+      "PCA": 27.0
+    }
+  ],
+  "downsideDev": [
+    {
+      "Date": "2024-01-30",
+      "Overall Rank": 6.0,
+      "Random Forest": 39.0,
+      "XG Boost": 18.0,
+      "K-Best": 4.0,
+      "Mutual Info": 7.0,
+      "PCA": 10.0
+    },
+    {
+      "Date": "2024-02-28",
+      "Overall Rank": 9.0,
+      "Random Forest": 35.0,
+      "XG Boost": 46.0,
+      "K-Best": 4.0,
+      "Mutual Info": 7.0,
+      "PCA": 9.0
+    },
+    {
+      "Date": "2024-03-30",
+      "Overall Rank": 3.0,
+      "Random Forest": 9.0,
+      "XG Boost": 19.0,
+      "K-Best": 6.0,
+      "Mutual Info": 8.0,
+      "PCA": 8.0
+    },
+    {
+      "Date": "2024-04-29",
+      "Overall Rank": 3.0,
+      "Random Forest": 10.0,
+      "XG Boost": 38.0,
+      "K-Best": 6.0,
+      "Mutual Info": 8.0,
+      "PCA": 8.0
+    },
+    {
+      "Date": "2024-05-30",
+      "Overall Rank": 6.0,
+      "Random Forest": 18.0,
+      "XG Boost": 57.0,
+      "K-Best": 6.0,
+      "Mutual Info": 8.0,
+      "PCA": 8.0
+    },
+    {
+      "Date": "2024-06-29",
+      "Overall Rank": 4.0,
+      "Random Forest": 14.0,
+      "XG Boost": 56.0,
+      "K-Best": 6.0,
+      "Mutual Info": 8.0,
+      "PCA": 9.0
+    },
+    {
+      "Date": "2024-07-30",
+      "Overall Rank": 8.0,
+      "Random Forest": 45.0,
+      "XG Boost": 23.0,
+      "K-Best": 4.0,
+      "Mutual Info": 9.0,
+      "PCA": 9.0
+    },
+    {
+      "Date": "2024-08-30",
+      "Overall Rank": 7.0,
+      "Random Forest": 44.0,
+      "XG Boost": 61.0,
+      "K-Best": 2.0,
+      "Mutual Info": 10.0,
+      "PCA": 9.0
+    },
+    {
+      "Date": "2024-09-29",
+      "Overall Rank": 4.0,
+      "Random Forest": 44.0,
+      "XG Boost": 15.0,
+      "K-Best": 4.0,
+      "Mutual Info": 8.0,
+      "PCA": 10.0
+    },
+    {
+      "Date": "2024-10-30",
+      "Overall Rank": 5.0,
+      "Random Forest": 39.0,
+      "XG Boost": 6.0,
+      "K-Best": 4.0,
+      "Mutual Info": 8.0,
+      "PCA": 9.0
+    },
+    {
+      "Date": "2024-11-29",
+      "Overall Rank": 8.0,
+      "Random Forest": 36.0,
+      "XG Boost": 43.0,
+      "K-Best": 4.0,
+      "Mutual Info": 8.0,
+      "PCA": 10.0
+    },
+    {
+      "Date": "2024-12-30",
+      "Overall Rank": 5.0,
+      "Random Forest": 19.0,
+      "XG Boost": 13.0,
+      "K-Best": 4.0,
+      "Mutual Info": 9.0,
+      "PCA": 10.0
+    }
+  ],
+  "earningsYield": [
+    {
+      "Date": "2024-01-30",
+      "Overall Rank": 20.0,
+      "Random Forest": 40.0,
+      "XG Boost": 45.0,
+      "K-Best": 14.0,
+      "Mutual Info": 9.0,
+      "PCA": 28.0
+    },
+    {
+      "Date": "2024-02-28",
+      "Overall Rank": 18.0,
+      "Random Forest": 27.0,
+      "XG Boost": 50.0,
+      "K-Best": 13.0,
+      "Mutual Info": 9.0,
+      "PCA": 27.0
+    },
+    {
+      "Date": "2024-03-30",
+      "Overall Rank": 29.0,
+      "Random Forest": 40.0,
+      "XG Boost": 48.0,
+      "K-Best": 16.0,
+      "Mutual Info": 7.0,
+      "PCA": 24.0
+    },
+    {
+      "Date": "2024-04-29",
+      "Overall Rank": 34.0,
+      "Random Forest": 37.0,
+      "XG Boost": 57.0,
+      "K-Best": 17.0,
+      "Mutual Info": 7.0,
+      "PCA": 25.0
+    },
+    {
+      "Date": "2024-05-30",
+      "Overall Rank": 21.0,
+      "Random Forest": 43.0,
+      "XG Boost": 58.0,
+      "K-Best": 15.0,
+      "Mutual Info": 7.0,
+      "PCA": 27.0
+    },
+    {
+      "Date": "2024-06-29",
+      "Overall Rank": 17.0,
+      "Random Forest": 40.0,
+      "XG Boost": 49.0,
+      "K-Best": 15.0,
+      "Mutual Info": 7.0,
+      "PCA": 29.0
+    },
+    {
+      "Date": "2024-07-30",
+      "Overall Rank": 16.0,
+      "Random Forest": 37.0,
+      "XG Boost": 36.0,
+      "K-Best": 14.0,
+      "Mutual Info": 8.0,
+      "PCA": 31.0
+    },
+    {
+      "Date": "2024-08-30",
+      "Overall Rank": 19.0,
+      "Random Forest": 29.0,
+      "XG Boost": 41.0,
+      "K-Best": 10.0,
+      "Mutual Info": 8.0,
+      "PCA": 28.0
+    },
+    {
+      "Date": "2024-09-29",
+      "Overall Rank": 18.0,
+      "Random Forest": 30.0,
+      "XG Boost": 32.0,
+      "K-Best": 14.0,
+      "Mutual Info": 7.0,
+      "PCA": 30.0
+    },
+    {
+      "Date": "2024-10-30",
+      "Overall Rank": 16.0,
+      "Random Forest": 29.0,
+      "XG Boost": 24.0,
+      "K-Best": 15.0,
+      "Mutual Info": 9.0,
+      "PCA": 30.0
+    },
+    {
+      "Date": "2024-11-29",
+      "Overall Rank": 18.0,
+      "Random Forest": 31.0,
+      "XG Boost": 54.0,
+      "K-Best": 14.0,
+      "Mutual Info": 9.0,
+      "PCA": 30.0
+    },
+    {
+      "Date": "2024-12-30",
+      "Overall Rank": 18.0,
+      "Random Forest": 39.0,
+      "XG Boost": 30.0,
+      "K-Best": 14.0,
+      "Mutual Info": 8.0,
+      "PCA": 34.0
+    }
+  ],
+  "industry": [
+    {
+      "Date": "2024-01-30",
+      "Overall Rank": 37.0,
+      "Random Forest": 46.0,
+      "XG Boost": 57.0,
+      "K-Best": 60.0,
+      "Mutual Info": 19.0,
+      "PCA": 1.0
+    },
+    {
+      "Date": "2024-02-28",
+      "Overall Rank": 37.0,
+      "Random Forest": 41.0,
+      "XG Boost": 53.0,
+      "K-Best": 54.0,
+      "Mutual Info": 17.0,
+      "PCA": 1.0
+    },
+    {
+      "Date": "2024-03-30",
+      "Overall Rank": 41.0,
+      "Random Forest": 53.0,
+      "XG Boost": 58.0,
+      "K-Best": 28.0,
+      "Mutual Info": 18.0,
+      "PCA": 1.0
+    },
+    {
+      "Date": "2024-04-29",
+      "Overall Rank": 17.0,
+      "Random Forest": 48.0,
+      "XG Boost": 59.0,
+      "K-Best": 29.0,
+      "Mutual Info": 15.0,
+      "PCA": 1.0
+    },
+    {
+      "Date": "2024-05-30",
+      "Overall Rank": 39.0,
+      "Random Forest": 54.0,
+      "XG Boost": 32.0,
+      "K-Best": 31.0,
+      "Mutual Info": 17.0,
+      "PCA": 1.0
+    },
+    {
+      "Date": "2024-06-29",
+      "Overall Rank": 42.0,
+      "Random Forest": 41.0,
+      "XG Boost": 59.0,
+      "K-Best": 28.0,
+      "Mutual Info": 16.0,
+      "PCA": 1.0
+    },
+    {
+      "Date": "2024-07-30",
+      "Overall Rank": 22.0,
+      "Random Forest": 51.0,
+      "XG Boost": 60.0,
+      "K-Best": 45.0,
+      "Mutual Info": 15.0,
+      "PCA": 1.0
+    },
+    {
+      "Date": "2024-08-30",
+      "Overall Rank": 41.0,
+      "Random Forest": 52.0,
+      "XG Boost": 25.0,
+      "K-Best": 41.0,
+      "Mutual Info": 18.0,
+      "PCA": 1.0
+    },
+    {
+      "Date": "2024-09-29",
+      "Overall Rank": 38.0,
+      "Random Forest": 48.0,
+      "XG Boost": 60.0,
+      "K-Best": 42.0,
+      "Mutual Info": 17.0,
+      "PCA": 1.0
+    },
+    {
+      "Date": "2024-10-30",
+      "Overall Rank": 38.0,
+      "Random Forest": 47.0,
+      "XG Boost": 17.0,
+      "K-Best": 43.0,
+      "Mutual Info": 16.0,
+      "PCA": 1.0
+    },
+    {
+      "Date": "2024-11-29",
+      "Overall Rank": 38.0,
+      "Random Forest": 50.0,
+      "XG Boost": 39.0,
+      "K-Best": 44.0,
+      "Mutual Info": 18.0,
+      "PCA": 1.0
+    },
+    {
+      "Date": "2024-12-30",
+      "Overall Rank": 37.0,
+      "Random Forest": 47.0,
+      "XG Boost": 53.0,
+      "K-Best": 44.0,
+      "Mutual Info": 20.0,
+      "PCA": 1.0
+    }
+  ],
+  "kurtosis": [
+    {
+      "Date": "2024-01-30",
+      "Overall Rank": 19.0,
+      "Random Forest": 14.0,
+      "XG Boost": 20.0,
+      "K-Best": 10.0,
+      "Mutual Info": 60.0,
+      "PCA": 39.0
+    },
+    {
+      "Date": "2024-02-28",
+      "Overall Rank": 25.0,
+      "Random Forest": 25.0,
+      "XG Boost": 16.0,
+      "K-Best": 10.0,
+      "Mutual Info": 60.0,
+      "PCA": 36.0
+    },
+    {
+      "Date": "2024-03-30",
+      "Overall Rank": 16.0,
+      "Random Forest": 14.0,
+      "XG Boost": 36.0,
+      "K-Best": 14.0,
+      "Mutual Info": 60.0,
+      "PCA": 32.0
+    },
+    {
+      "Date": "2024-04-29",
+      "Overall Rank": 27.0,
+      "Random Forest": 24.0,
+      "XG Boost": 36.0,
+      "K-Best": 14.0,
+      "Mutual Info": 57.0,
+      "PCA": 31.0
+    },
+    {
+      "Date": "2024-05-30",
+      "Overall Rank": 17.0,
+      "Random Forest": 10.0,
+      "XG Boost": 46.0,
+      "K-Best": 14.0,
+      "Mutual Info": 59.0,
+      "PCA": 40.0
+    },
+    {
+      "Date": "2024-06-29",
+      "Overall Rank": 29.0,
+      "Random Forest": 23.0,
+      "XG Boost": 17.0,
+      "K-Best": 14.0,
+      "Mutual Info": 59.0,
+      "PCA": 42.0
+    },
+    {
+      "Date": "2024-07-30",
+      "Overall Rank": 30.0,
+      "Random Forest": 31.0,
+      "XG Boost": 32.0,
+      "K-Best": 11.0,
+      "Mutual Info": 58.0,
+      "PCA": 43.0
+    },
+    {
+      "Date": "2024-08-30",
+      "Overall Rank": 31.0,
+      "Random Forest": 32.0,
+      "XG Boost": 32.0,
+      "K-Best": 14.0,
+      "Mutual Info": 57.0,
+      "PCA": 43.0
+    },
+    {
+      "Date": "2024-09-29",
+      "Overall Rank": 29.0,
+      "Random Forest": 26.0,
+      "XG Boost": 22.0,
+      "K-Best": 12.0,
+      "Mutual Info": 58.0,
+      "PCA": 44.0
+    },
+    {
+      "Date": "2024-10-30",
+      "Overall Rank": 28.0,
+      "Random Forest": 25.0,
+      "XG Boost": 34.0,
+      "K-Best": 13.0,
+      "Mutual Info": 57.0,
+      "PCA": 48.0
+    },
+    {
+      "Date": "2024-11-29",
+      "Overall Rank": 28.0,
+      "Random Forest": 24.0,
+      "XG Boost": 21.0,
+      "K-Best": 13.0,
+      "Mutual Info": 59.0,
+      "PCA": 52.0
+    },
+    {
+      "Date": "2024-12-30",
+      "Overall Rank": 26.0,
+      "Random Forest": 25.0,
+      "XG Boost": 18.0,
+      "K-Best": 13.0,
+      "Mutual Info": 60.0,
+      "PCA": 53.0
+    }
+  ],
+  "maxDrawdown": [
+    {
+      "Date": "2024-01-30",
+      "Overall Rank": 3.0,
+      "Random Forest": 5.0,
+      "XG Boost": 3.0,
+      "K-Best": 3.0,
+      "Mutual Info": 5.0,
+      "PCA": 7.0
+    },
+    {
+      "Date": "2024-02-28",
+      "Overall Rank": 1.0,
+      "Random Forest": 7.0,
+      "XG Boost": 3.0,
+      "K-Best": 3.0,
+      "Mutual Info": 5.0,
+      "PCA": 6.0
+    },
+    {
+      "Date": "2024-03-30",
+      "Overall Rank": 2.0,
+      "Random Forest": 17.0,
+      "XG Boost": 7.0,
+      "K-Best": 4.0,
+      "Mutual Info": 5.0,
+      "PCA": 6.0
+    },
+    {
+      "Date": "2024-04-29",
+      "Overall Rank": 1.0,
+      "Random Forest": 13.0,
+      "XG Boost": 6.0,
+      "K-Best": 4.0,
+      "Mutual Info": 5.0,
+      "PCA": 6.0
+    },
+    {
+      "Date": "2024-05-30",
+      "Overall Rank": 2.0,
+      "Random Forest": 21.0,
+      "XG Boost": 7.0,
+      "K-Best": 4.0,
+      "Mutual Info": 5.0,
+      "PCA": 6.0
+    },
+    {
+      "Date": "2024-06-29",
+      "Overall Rank": 3.0,
+      "Random Forest": 33.0,
+      "XG Boost": 6.0,
+      "K-Best": 4.0,
+      "Mutual Info": 5.0,
+      "PCA": 6.0
+    },
+    {
+      "Date": "2024-07-30",
+      "Overall Rank": 1.0,
+      "Random Forest": 7.0,
+      "XG Boost": 4.0,
+      "K-Best": 3.0,
+      "Mutual Info": 5.0,
+      "PCA": 6.0
+    },
+    {
+      "Date": "2024-08-30",
+      "Overall Rank": 2.0,
+      "Random Forest": 28.0,
+      "XG Boost": 11.0,
+      "K-Best": 1.0,
+      "Mutual Info": 5.0,
+      "PCA": 6.0
+    },
+    {
+      "Date": "2024-09-29",
+      "Overall Rank": 1.0,
+      "Random Forest": 8.0,
+      "XG Boost": 4.0,
+      "K-Best": 3.0,
+      "Mutual Info": 5.0,
+      "PCA": 6.0
+    },
+    {
+      "Date": "2024-10-30",
+      "Overall Rank": 1.0,
+      "Random Forest": 6.0,
+      "XG Boost": 4.0,
+      "K-Best": 3.0,
+      "Mutual Info": 5.0,
+      "PCA": 6.0
+    },
+    {
+      "Date": "2024-11-29",
+      "Overall Rank": 1.0,
+      "Random Forest": 4.0,
+      "XG Boost": 4.0,
+      "K-Best": 3.0,
+      "Mutual Info": 5.0,
+      "PCA": 7.0
+    },
+    {
+      "Date": "2024-12-30",
+      "Overall Rank": 1.0,
+      "Random Forest": 5.0,
+      "XG Boost": 4.0,
+      "K-Best": 3.0,
+      "Mutual Info": 5.0,
+      "PCA": 6.0
+    }
+  ],
+  "mcGroup": [
+    {
+      "Date": "2024-01-30",
+      "Overall Rank": 22.0,
+      "Random Forest": 60.0,
+      "XG Boost": 60.0,
+      "K-Best": 8.0,
+      "Mutual Info": 36.0,
+      "PCA": 3.0
+    },
+    {
+      "Date": "2024-02-28",
+      "Overall Rank": 21.0,
+      "Random Forest": 60.0,
+      "XG Boost": 60.0,
+      "K-Best": 8.0,
+      "Mutual Info": 38.0,
+      "PCA": 3.0
+    },
+    {
+      "Date": "2024-03-30",
+      "Overall Rank": 22.0,
+      "Random Forest": 60.0,
+      "XG Boost": 60.0,
+      "K-Best": 11.0,
+      "Mutual Info": 36.0,
+      "PCA": 3.0
+    },
+    {
+      "Date": "2024-04-29",
+      "Overall Rank": 18.0,
+      "Random Forest": 60.0,
+      "XG Boost": 60.0,
+      "K-Best": 11.0,
+      "Mutual Info": 35.0,
+      "PCA": 3.0
+    },
+    {
+      "Date": "2024-05-30",
+      "Overall Rank": 24.0,
+      "Random Forest": 62.0,
+      "XG Boost": 62.0,
+      "K-Best": 11.0,
+      "Mutual Info": 37.0,
+      "PCA": 3.0
+    },
+    {
+      "Date": "2024-06-29",
+      "Overall Rank": 21.0,
+      "Random Forest": 63.0,
+      "XG Boost": 63.0,
+      "K-Best": 11.0,
+      "Mutual Info": 40.0,
+      "PCA": 3.0
+    },
+    {
+      "Date": "2024-07-30",
+      "Overall Rank": 23.0,
+      "Random Forest": 63.0,
+      "XG Boost": 63.0,
+      "K-Best": 9.0,
+      "Mutual Info": 39.0,
+      "PCA": 3.0
+    },
+    {
+      "Date": "2024-08-30",
+      "Overall Rank": 24.0,
+      "Random Forest": 63.0,
+      "XG Boost": 63.0,
+      "K-Best": 6.0,
+      "Mutual Info": 39.0,
+      "PCA": 3.0
+    },
+    {
+      "Date": "2024-09-29",
+      "Overall Rank": 21.0,
+      "Random Forest": 62.0,
+      "XG Boost": 62.0,
+      "K-Best": 9.0,
+      "Mutual Info": 38.0,
+      "PCA": 3.0
+    },
+    {
+      "Date": "2024-10-30",
+      "Overall Rank": 21.0,
+      "Random Forest": 62.0,
+      "XG Boost": 62.0,
+      "K-Best": 9.0,
+      "Mutual Info": 33.0,
+      "PCA": 3.0
+    },
+    {
+      "Date": "2024-11-29",
+      "Overall Rank": 22.0,
+      "Random Forest": 62.0,
+      "XG Boost": 38.0,
+      "K-Best": 9.0,
+      "Mutual Info": 32.0,
+      "PCA": 3.0
+    },
+    {
+      "Date": "2024-12-30",
+      "Overall Rank": 21.0,
+      "Random Forest": 63.0,
+      "XG Boost": 63.0,
+      "K-Best": 10.0,
+      "Mutual Info": 34.0,
+      "PCA": 3.0
+    }
+  ],
+  "medianVol": [
+    {
+      "Date": "2024-01-30",
+      "Overall Rank": 23.0,
+      "Random Forest": 27.0,
+      "XG Boost": 8.0,
+      "K-Best": 28.0,
+      "Mutual Info": 53.0,
+      "PCA": 21.0
+    },
+    {
+      "Date": "2024-02-28",
+      "Overall Rank": NaN,
+      "Random Forest": 18.0,
+      "XG Boost": 22.0,
+      "K-Best": 27.0,
+      "Mutual Info": 54.0,
+      "PCA": 23.0
+    },
+    {
+      "Date": "2024-03-30",
+      "Overall Rank": 11.0,
+      "Random Forest": 12.0,
+      "XG Boost": 4.0,
+      "K-Best": 30.0,
+      "Mutual Info": 56.0,
+      "PCA": 25.0
+    },
+    {
+      "Date": "2024-04-29",
+      "Overall Rank": 11.0,
+      "Random Forest": 11.0,
+      "XG Boost": 1.0,
+      "K-Best": 27.0,
+      "Mutual Info": 55.0,
+      "PCA": 24.0
+    },
+    {
+      "Date": "2024-05-30",
+      "Overall Rank": 13.0,
+      "Random Forest": 8.0,
+      "XG Boost": 2.0,
+      "K-Best": 29.0,
+      "Mutual Info": 57.0,
+      "PCA": 24.0
+    },
+    {
+      "Date": "2024-06-29",
+      "Overall Rank": 23.0,
+      "Random Forest": 20.0,
+      "XG Boost": 1.0,
+      "K-Best": 31.0,
+      "Mutual Info": 58.0,
+      "PCA": 23.0
+    },
+    {
+      "Date": "2024-07-30",
+      "Overall Rank": 24.0,
+      "Random Forest": 25.0,
+      "XG Boost": 12.0,
+      "K-Best": 31.0,
+      "Mutual Info": 61.0,
+      "PCA": 26.0
+    },
+    {
+      "Date": "2024-08-30",
+      "Overall Rank": 10.0,
+      "Random Forest": 15.0,
+      "XG Boost": 14.0,
+      "K-Best": 29.0,
+      "Mutual Info": 60.0,
+      "PCA": 23.0
+    },
+    {
+      "Date": "2024-09-29",
+      "Overall Rank": 22.0,
+      "Random Forest": 25.0,
+      "XG Boost": 12.0,
+      "K-Best": 30.0,
+      "Mutual Info": 59.0,
+      "PCA": 26.0
+    },
+    {
+      "Date": "2024-10-30",
+      "Overall Rank": NaN,
+      "Random Forest": 28.0,
+      "XG Boost": 23.0,
+      "K-Best": 32.0,
+      "Mutual Info": 56.0,
+      "PCA": 28.0
+    },
+    {
+      "Date": "2024-11-29",
+      "Overall Rank": NaN,
+      "Random Forest": 21.0,
+      "XG Boost": 24.0,
+      "K-Best": 33.0,
+      "Mutual Info": 53.0,
+      "PCA": 26.0
+    },
+    {
+      "Date": "2024-12-30",
+      "Overall Rank": NaN,
+      "Random Forest": 28.0,
+      "XG Boost": 32.0,
+      "K-Best": 34.0,
+      "Mutual Info": 56.0,
+      "PCA": 28.0
+    }
+  ],
+  "qtr": [
+    {
+      "Date": "2024-01-30",
+      "Overall Rank": 10.0,
+      "Random Forest": 23.0,
+      "XG Boost": 4.0,
+      "K-Best": 6.0,
+      "Mutual Info": 44.0,
+      "PCA": 58.0
+    },
+    {
+      "Date": "2024-02-28",
+      "Overall Rank": 12.0,
+      "Random Forest": 17.0,
+      "XG Boost": 4.0,
+      "K-Best": 6.0,
+      "Mutual Info": 43.0,
+      "PCA": 59.0
+    },
+    {
+      "Date": "2024-03-30",
+      "Overall Rank": 10.0,
+      "Random Forest": 36.0,
+      "XG Boost": 6.0,
+      "K-Best": 8.0,
+      "Mutual Info": 42.0,
+      "PCA": 59.0
+    },
+    {
+      "Date": "2024-04-29",
+      "Overall Rank": 10.0,
+      "Random Forest": 34.0,
+      "XG Boost": 5.0,
+      "K-Best": 7.0,
+      "Mutual Info": 42.0,
+      "PCA": 60.0
+    },
+    {
+      "Date": "2024-05-30",
+      "Overall Rank": 11.0,
+      "Random Forest": 33.0,
+      "XG Boost": 6.0,
+      "K-Best": 7.0,
+      "Mutual Info": 46.0,
+      "PCA": 60.0
+    },
+    {
+      "Date": "2024-06-29",
+      "Overall Rank": 8.0,
+      "Random Forest": 32.0,
+      "XG Boost": 4.0,
+      "K-Best": 7.0,
+      "Mutual Info": 46.0,
+      "PCA": 62.0
+    },
+    {
+      "Date": "2024-07-30",
+      "Overall Rank": 9.0,
+      "Random Forest": 16.0,
+      "XG Boost": 6.0,
+      "K-Best": 7.0,
+      "Mutual Info": 45.0,
+      "PCA": 61.0
+    },
+    {
+      "Date": "2024-08-30",
+      "Overall Rank": 3.0,
+      "Random Forest": 13.0,
+      "XG Boost": 13.0,
+      "K-Best": 4.0,
+      "Mutual Info": 43.0,
+      "PCA": 61.0
+    },
+    {
+      "Date": "2024-09-29",
+      "Overall Rank": 11.0,
+      "Random Forest": 16.0,
+      "XG Boost": 5.0,
+      "K-Best": 7.0,
+      "Mutual Info": 45.0,
+      "PCA": 60.0
+    },
+    {
+      "Date": "2024-10-30",
+      "Overall Rank": 10.0,
+      "Random Forest": 23.0,
+      "XG Boost": 5.0,
+      "K-Best": 7.0,
+      "Mutual Info": 41.0,
+      "PCA": 60.0
+    },
+    {
+      "Date": "2024-11-29",
+      "Overall Rank": 5.0,
+      "Random Forest": 9.0,
+      "XG Boost": 3.0,
+      "K-Best": 8.0,
+      "Mutual Info": 44.0,
+      "PCA": 58.0
+    },
+    {
+      "Date": "2024-12-30",
+      "Overall Rank": 6.0,
+      "Random Forest": 10.0,
+      "XG Boost": 3.0,
+      "K-Best": 8.0,
+      "Mutual Info": 46.0,
+      "PCA": 61.0
+    }
+  ],
+  "return2y": [
+    {
+      "Date": "2024-01-30",
+      "Overall Rank": 1.0,
+      "Random Forest": 2.0,
+      "XG Boost": 11.0,
+      "K-Best": 7.0,
+      "Mutual Info": 6.0,
+      "PCA": 15.0
+    },
+    {
+      "Date": "2024-02-28",
+      "Overall Rank": 3.0,
+      "Random Forest": 3.0,
+      "XG Boost": 5.0,
+      "K-Best": 7.0,
+      "Mutual Info": 6.0,
+      "PCA": 16.0
+    },
+    {
+      "Date": "2024-03-30",
+      "Overall Rank": 14.0,
+      "Random Forest": 22.0,
+      "XG Boost": 20.0,
+      "K-Best": 9.0,
+      "Mutual Info": 6.0,
+      "PCA": 16.0
+    },
+    {
+      "Date": "2024-04-29",
+      "Overall Rank": 5.0,
+      "Random Forest": 22.0,
+      "XG Boost": 14.0,
+      "K-Best": 9.0,
+      "Mutual Info": 6.0,
+      "PCA": 16.0
+    },
+    {
+      "Date": "2024-05-30",
+      "Overall Rank": 3.0,
+      "Random Forest": 13.0,
+      "XG Boost": 21.0,
+      "K-Best": 9.0,
+      "Mutual Info": 6.0,
+      "PCA": 16.0
+    },
+    {
+      "Date": "2024-06-29",
+      "Overall Rank": 1.0,
+      "Random Forest": 12.0,
+      "XG Boost": 20.0,
+      "K-Best": 9.0,
+      "Mutual Info": 6.0,
+      "PCA": 15.0
+    },
+    {
+      "Date": "2024-07-30",
+      "Overall Rank": 2.0,
+      "Random Forest": 3.0,
+      "XG Boost": 13.0,
+      "K-Best": 8.0,
+      "Mutual Info": 6.0,
+      "PCA": 16.0
+    },
+    {
+      "Date": "2024-08-30",
+      "Overall Rank": 5.0,
+      "Random Forest": 4.0,
+      "XG Boost": 22.0,
+      "K-Best": 7.0,
+      "Mutual Info": 6.0,
+      "PCA": 17.0
+    },
+    {
+      "Date": "2024-09-29",
+      "Overall Rank": 2.0,
+      "Random Forest": 6.0,
+      "XG Boost": 10.0,
+      "K-Best": 8.0,
+      "Mutual Info": 6.0,
+      "PCA": 19.0
+    },
+    {
+      "Date": "2024-10-30",
+      "Overall Rank": 3.0,
+      "Random Forest": 9.0,
+      "XG Boost": 10.0,
+      "K-Best": 10.0,
+      "Mutual Info": 6.0,
+      "PCA": 20.0
+    },
+    {
+      "Date": "2024-11-29",
+      "Overall Rank": 3.0,
+      "Random Forest": 8.0,
+      "XG Boost": 8.0,
+      "K-Best": 10.0,
+      "Mutual Info": 6.0,
+      "PCA": 20.0
+    },
+    {
+      "Date": "2024-12-30",
+      "Overall Rank": 2.0,
+      "Random Forest": 8.0,
+      "XG Boost": 7.0,
+      "K-Best": 9.0,
+      "Mutual Info": 7.0,
+      "PCA": 23.0
+    }
+  ],
+  "return3m": [
+    {
+      "Date": "2024-01-30",
+      "Overall Rank": 13.0,
+      "Random Forest": 8.0,
+      "XG Boost": 42.0,
+      "K-Best": 52.0,
+      "Mutual Info": 15.0,
+      "PCA": 52.0
+    },
+    {
+      "Date": "2024-02-28",
+      "Overall Rank": 14.0,
+      "Random Forest": 6.0,
+      "XG Boost": 43.0,
+      "K-Best": 58.0,
+      "Mutual Info": 14.0,
+      "PCA": 55.0
+    },
+    {
+      "Date": "2024-03-30",
+      "Overall Rank": NaN,
+      "Random Forest": 19.0,
+      "XG Boost": 40.0,
+      "K-Best": 59.0,
+      "Mutual Info": 16.0,
+      "PCA": 42.0
+    },
+    {
+      "Date": "2024-04-29",
+      "Overall Rank": 20.0,
+      "Random Forest": 6.0,
+      "XG Boost": 33.0,
+      "K-Best": 59.0,
+      "Mutual Info": 16.0,
+      "PCA": 44.0
+    },
+    {
+      "Date": "2024-05-30",
+      "Overall Rank": NaN,
+      "Random Forest": 19.0,
+      "XG Boost": 36.0,
+      "K-Best": 61.0,
+      "Mutual Info": 16.0,
+      "PCA": 44.0
+    },
+    {
+      "Date": "2024-06-29",
+      "Overall Rank": 25.0,
+      "Random Forest": 11.0,
+      "XG Boost": 44.0,
+      "K-Best": 56.0,
+      "Mutual Info": 18.0,
+      "PCA": 45.0
+    },
+    {
+      "Date": "2024-07-30",
+      "Overall Rank": 26.0,
+      "Random Forest": 5.0,
+      "XG Boost": 24.0,
+      "K-Best": 63.0,
+      "Mutual Info": 18.0,
+      "PCA": 49.0
+    },
+    {
+      "Date": "2024-08-30",
+      "Overall Rank": 27.0,
+      "Random Forest": 7.0,
+      "XG Boost": 29.0,
+      "K-Best": 33.0,
+      "Mutual Info": 17.0,
+      "PCA": 34.0
+    },
+    {
+      "Date": "2024-09-29",
+      "Overall Rank": 24.0,
+      "Random Forest": 5.0,
+      "XG Boost": 40.0,
+      "K-Best": 52.0,
+      "Mutual Info": 19.0,
+      "PCA": 46.0
+    },
+    {
+      "Date": "2024-10-30",
+      "Overall Rank": 24.0,
+      "Random Forest": 5.0,
+      "XG Boost": 43.0,
+      "K-Best": 52.0,
+      "Mutual Info": 18.0,
+      "PCA": 44.0
+    },
+    {
+      "Date": "2024-11-29",
+      "Overall Rank": 25.0,
+      "Random Forest": 6.0,
+      "XG Boost": 32.0,
+      "K-Best": 58.0,
+      "Mutual Info": 17.0,
+      "PCA": 43.0
+    },
+    {
+      "Date": "2024-12-30",
+      "Overall Rank": 23.0,
+      "Random Forest": 6.0,
+      "XG Boost": 31.0,
+      "K-Best": 59.0,
+      "Mutual Info": 19.0,
+      "PCA": 44.0
+    }
+  ],
+  "return5y": [
+    {
+      "Date": "2024-01-30",
+      "Overall Rank": 2.0,
+      "Random Forest": 12.0,
+      "XG Boost": 7.0,
+      "K-Best": 11.0,
+      "Mutual Info": 12.0,
+      "PCA": 6.0
+    },
+    {
+      "Date": "2024-02-28",
+      "Overall Rank": 7.0,
+      "Random Forest": 40.0,
+      "XG Boost": 34.0,
+      "K-Best": 11.0,
+      "Mutual Info": 12.0,
+      "PCA": 7.0
+    },
+    {
+      "Date": "2024-03-30",
+      "Overall Rank": 4.0,
+      "Random Forest": 25.0,
+      "XG Boost": 31.0,
+      "K-Best": 10.0,
+      "Mutual Info": 13.0,
+      "PCA": 7.0
+    },
+    {
+      "Date": "2024-04-29",
+      "Overall Rank": 6.0,
+      "Random Forest": 23.0,
+      "XG Boost": 53.0,
+      "K-Best": 10.0,
+      "Mutual Info": 13.0,
+      "PCA": 7.0
+    },
+    {
+      "Date": "2024-05-30",
+      "Overall Rank": 4.0,
+      "Random Forest": 47.0,
+      "XG Boost": 45.0,
+      "K-Best": 10.0,
+      "Mutual Info": 11.0,
+      "PCA": 7.0
+    },
+    {
+      "Date": "2024-06-29",
+      "Overall Rank": 7.0,
+      "Random Forest": 27.0,
+      "XG Boost": 35.0,
+      "K-Best": 10.0,
+      "Mutual Info": 11.0,
+      "PCA": 7.0
+    },
+    {
+      "Date": "2024-07-30",
+      "Overall Rank": 6.0,
+      "Random Forest": 38.0,
+      "XG Boost": 56.0,
+      "K-Best": 10.0,
+      "Mutual Info": 12.0,
+      "PCA": 7.0
+    },
+    {
+      "Date": "2024-08-30",
+      "Overall Rank": 6.0,
+      "Random Forest": 48.0,
+      "XG Boost": 55.0,
+      "K-Best": 8.0,
+      "Mutual Info": 13.0,
+      "PCA": 7.0
+    },
+    {
+      "Date": "2024-09-29",
+      "Overall Rank": 7.0,
+      "Random Forest": 34.0,
+      "XG Boost": 20.0,
+      "K-Best": 10.0,
+      "Mutual Info": 12.0,
+      "PCA": 7.0
+    },
+    {
+      "Date": "2024-10-30",
+      "Overall Rank": 8.0,
+      "Random Forest": 35.0,
+      "XG Boost": 54.0,
+      "K-Best": 11.0,
+      "Mutual Info": 12.0,
+      "PCA": 7.0
+    },
+    {
+      "Date": "2024-11-29",
+      "Overall Rank": 6.0,
+      "Random Forest": 33.0,
+      "XG Boost": 40.0,
+      "K-Best": 11.0,
+      "Mutual Info": 12.0,
+      "PCA": 6.0
+    },
+    {
+      "Date": "2024-12-30",
+      "Overall Rank": 8.0,
+      "Random Forest": 42.0,
+      "XG Boost": 37.0,
+      "K-Best": 11.0,
+      "Mutual Info": 12.0,
+      "PCA": 7.0
+    }
+  ],
+  "roa": [
+    {
+      "Date": "2024-01-30",
+      "Overall Rank": 29.0,
+      "Random Forest": 31.0,
+      "XG Boost": 34.0,
+      "K-Best": 26.0,
+      "Mutual Info": 21.0,
+      "PCA": 8.0
+    },
+    {
+      "Date": "2024-02-28",
+      "Overall Rank": 31.0,
+      "Random Forest": 26.0,
+      "XG Boost": 40.0,
+      "K-Best": 24.0,
+      "Mutual Info": 20.0,
+      "PCA": 8.0
+    },
+    {
+      "Date": "2024-03-30",
+      "Overall Rank": 8.0,
+      "Random Forest": 8.0,
+      "XG Boost": 53.0,
+      "K-Best": 3.0,
+      "Mutual Info": 20.0,
+      "PCA": 9.0
+    },
+    {
+      "Date": "2024-04-29",
+      "Overall Rank": 8.0,
+      "Random Forest": 8.0,
+      "XG Boost": 22.0,
+      "K-Best": 3.0,
+      "Mutual Info": 19.0,
+      "PCA": 9.0
+    },
+    {
+      "Date": "2024-05-30",
+      "Overall Rank": 8.0,
+      "Random Forest": 4.0,
+      "XG Boost": 54.0,
+      "K-Best": 3.0,
+      "Mutual Info": 20.0,
+      "PCA": 10.0
+    },
+    {
+      "Date": "2024-06-29",
+      "Overall Rank": 19.0,
+      "Random Forest": 29.0,
+      "XG Boost": 43.0,
+      "K-Best": 3.0,
+      "Mutual Info": 20.0,
+      "PCA": 10.0
+    },
+    {
+      "Date": "2024-07-30",
+      "Overall Rank": 19.0,
+      "Random Forest": 10.0,
+      "XG Boost": 41.0,
+      "K-Best": 26.0,
+      "Mutual Info": 21.0,
+      "PCA": 10.0
+    },
+    {
+      "Date": "2024-08-30",
+      "Overall Rank": 22.0,
+      "Random Forest": 11.0,
+      "XG Boost": 48.0,
+      "K-Best": 25.0,
+      "Mutual Info": 21.0,
+      "PCA": 10.0
+    },
+    {
+      "Date": "2024-09-29",
+      "Overall Rank": 20.0,
+      "Random Forest": 11.0,
+      "XG Boost": 25.0,
+      "K-Best": 28.0,
+      "Mutual Info": 21.0,
+      "PCA": 9.0
+    },
+    {
+      "Date": "2024-10-30",
+      "Overall Rank": 19.0,
+      "Random Forest": 13.0,
+      "XG Boost": 49.0,
+      "K-Best": 27.0,
+      "Mutual Info": 19.0,
+      "PCA": 10.0
+    },
+    {
+      "Date": "2024-11-29",
+      "Overall Rank": 21.0,
+      "Random Forest": 15.0,
+      "XG Boost": 47.0,
+      "K-Best": 26.0,
+      "Mutual Info": 16.0,
+      "PCA": 9.0
+    },
+    {
+      "Date": "2024-12-30",
+      "Overall Rank": 31.0,
+      "Random Forest": 18.0,
+      "XG Boost": 38.0,
+      "K-Best": 25.0,
+      "Mutual Info": 17.0,
+      "PCA": 9.0
+    }
+  ],
+  "sectorBeta": [
+    {
+      "Date": "2024-01-30",
+      "Overall Rank": NaN,
+      "Random Forest": NaN,
+      "XG Boost": NaN,
+      "K-Best": NaN,
+      "Mutual Info": NaN,
+      "PCA": NaN
+    },
+    {
+      "Date": "2024-02-28",
+      "Overall Rank": NaN,
+      "Random Forest": NaN,
+      "XG Boost": NaN,
+      "K-Best": NaN,
+      "Mutual Info": NaN,
+      "PCA": NaN
+    },
+    {
+      "Date": "2024-03-30",
+      "Overall Rank": NaN,
+      "Random Forest": NaN,
+      "XG Boost": NaN,
+      "K-Best": NaN,
+      "Mutual Info": NaN,
+      "PCA": NaN
+    },
+    {
+      "Date": "2024-04-29",
+      "Overall Rank": NaN,
+      "Random Forest": NaN,
+      "XG Boost": NaN,
+      "K-Best": NaN,
+      "Mutual Info": NaN,
+      "PCA": NaN
+    },
+    {
+      "Date": "2024-05-30",
+      "Overall Rank": 30.0,
+      "Random Forest": 12.0,
+      "XG Boost": 50.0,
+      "K-Best": 50.0,
+      "Mutual Info": 35.0,
+      "PCA": 30.0
+    },
+    {
+      "Date": "2024-06-29",
+      "Overall Rank": 15.0,
+      "Random Forest": 6.0,
+      "XG Boost": 5.0,
+      "K-Best": 52.0,
+      "Mutual Info": 37.0,
+      "PCA": 31.0
+    },
+    {
+      "Date": "2024-07-30",
+      "Overall Rank": 15.0,
+      "Random Forest": 13.0,
+      "XG Boost": 5.0,
+      "K-Best": 21.0,
+      "Mutual Info": 41.0,
+      "PCA": 19.0
+    },
+    {
+      "Date": "2024-08-30",
+      "Overall Rank": 17.0,
+      "Random Forest": 10.0,
+      "XG Boost": 34.0,
+      "K-Best": 20.0,
+      "Mutual Info": 41.0,
+      "PCA": 15.0
+    },
+    {
+      "Date": "2024-09-29",
+      "Overall Rank": NaN,
+      "Random Forest": 17.0,
+      "XG Boost": 28.0,
+      "K-Best": 21.0,
+      "Mutual Info": 41.0,
+      "PCA": 20.0
+    },
+    {
+      "Date": "2024-10-30",
+      "Overall Rank": 15.0,
+      "Random Forest": 15.0,
+      "XG Boost": 2.0,
+      "K-Best": 21.0,
+      "Mutual Info": 40.0,
+      "PCA": 19.0
+    },
+    {
+      "Date": "2024-11-29",
+      "Overall Rank": NaN,
+      "Random Forest": 18.0,
+      "XG Boost": 45.0,
+      "K-Best": 22.0,
+      "Mutual Info": 40.0,
+      "PCA": 17.0
+    },
+    {
+      "Date": "2024-12-30",
+      "Overall Rank": NaN,
+      "Random Forest": 17.0,
+      "XG Boost": 22.0,
+      "K-Best": 22.0,
+      "Mutual Info": 40.0,
+      "PCA": 16.0
+    }
+  ],
+  "sharpe3m": [
+    {
+      "Date": "2024-01-30",
+      "Overall Rank": NaN,
+      "Random Forest": 43.0,
+      "XG Boost": 41.0,
+      "K-Best": 34.0,
+      "Mutual Info": 43.0,
+      "PCA": 30.0
+    },
+    {
+      "Date": "2024-02-28",
+      "Overall Rank": NaN,
+      "Random Forest": 36.0,
+      "XG Boost": 39.0,
+      "K-Best": 36.0,
+      "Mutual Info": 44.0,
+      "PCA": 30.0
+    },
+    {
+      "Date": "2024-03-30",
+      "Overall Rank": NaN,
+      "Random Forest": 39.0,
+      "XG Boost": 45.0,
+      "K-Best": 57.0,
+      "Mutual Info": 43.0,
+      "PCA": 31.0
+    },
+    {
+      "Date": "2024-04-29",
+      "Overall Rank": NaN,
+      "Random Forest": 40.0,
+      "XG Boost": 46.0,
+      "K-Best": 48.0,
+      "Mutual Info": 43.0,
+      "PCA": 30.0
+    },
+    {
+      "Date": "2024-05-30",
+      "Overall Rank": NaN,
+      "Random Forest": 44.0,
+      "XG Boost": 31.0,
+      "K-Best": 52.0,
+      "Mutual Info": 47.0,
+      "PCA": 39.0
+    },
+    {
+      "Date": "2024-06-29",
+      "Overall Rank": NaN,
+      "Random Forest": 49.0,
+      "XG Boost": 27.0,
+      "K-Best": 45.0,
+      "Mutual Info": 48.0,
+      "PCA": 41.0
+    },
+    {
+      "Date": "2024-07-30",
+      "Overall Rank": 29.0,
+      "Random Forest": 42.0,
+      "XG Boost": 1.0,
+      "K-Best": 39.0,
+      "Mutual Info": 48.0,
+      "PCA": 45.0
+    },
+    {
+      "Date": "2024-08-30",
+      "Overall Rank": NaN,
+      "Random Forest": 24.0,
+      "XG Boost": 40.0,
+      "K-Best": 23.0,
+      "Mutual Info": 46.0,
+      "PCA": 56.0
+    },
+    {
+      "Date": "2024-09-29",
+      "Overall Rank": 28.0,
+      "Random Forest": 38.0,
+      "XG Boost": 2.0,
+      "K-Best": 33.0,
+      "Mutual Info": 47.0,
+      "PCA": 56.0
+    },
+    {
+      "Date": "2024-10-30",
+      "Overall Rank": NaN,
+      "Random Forest": 31.0,
+      "XG Boost": 28.0,
+      "K-Best": 33.0,
+      "Mutual Info": 42.0,
+      "PCA": 54.0
+    },
+    {
+      "Date": "2024-11-29",
+      "Overall Rank": NaN,
+      "Random Forest": 35.0,
+      "XG Boost": 37.0,
+      "K-Best": 29.0,
+      "Mutual Info": 41.0,
+      "PCA": 53.0
+    },
+    {
+      "Date": "2024-12-30",
+      "Overall Rank": NaN,
+      "Random Forest": 35.0,
+      "XG Boost": 21.0,
+      "K-Best": 35.0,
+      "Mutual Info": 42.0,
+      "PCA": 48.0
+    }
+  ],
+  "sharpe5y": [
+    {
+      "Date": "2024-01-30",
+      "Overall Rank": 18.0,
+      "Random Forest": 48.0,
+      "XG Boost": 19.0,
+      "K-Best": 12.0,
+      "Mutual Info": 17.0,
+      "PCA": 5.0
+    },
+    {
+      "Date": "2024-02-28",
+      "Overall Rank": 17.0,
+      "Random Forest": 49.0,
+      "XG Boost": 25.0,
+      "K-Best": 12.0,
+      "Mutual Info": 16.0,
+      "PCA": 5.0
+    },
+    {
+      "Date": "2024-03-30",
+      "Overall Rank": 15.0,
+      "Random Forest": 48.0,
+      "XG Boost": 28.0,
+      "K-Best": 13.0,
+      "Mutual Info": 19.0,
+      "PCA": 5.0
+    },
+    {
+      "Date": "2024-04-29",
+      "Overall Rank": 14.0,
+      "Random Forest": 25.0,
+      "XG Boost": 32.0,
+      "K-Best": 13.0,
+      "Mutual Info": 21.0,
+      "PCA": 5.0
+    },
+    {
+      "Date": "2024-05-30",
+      "Overall Rank": 16.0,
+      "Random Forest": 55.0,
+      "XG Boost": 20.0,
+      "K-Best": 13.0,
+      "Mutual Info": 22.0,
+      "PCA": 5.0
+    },
+    {
+      "Date": "2024-06-29",
+      "Overall Rank": 14.0,
+      "Random Forest": 46.0,
+      "XG Boost": 29.0,
+      "K-Best": 13.0,
+      "Mutual Info": 21.0,
+      "PCA": 5.0
+    },
+    {
+      "Date": "2024-07-30",
+      "Overall Rank": 13.0,
+      "Random Forest": 43.0,
+      "XG Boost": 27.0,
+      "K-Best": 12.0,
+      "Mutual Info": 20.0,
+      "PCA": 5.0
+    },
+    {
+      "Date": "2024-08-30",
+      "Overall Rank": 15.0,
+      "Random Forest": 42.0,
+      "XG Boost": 30.0,
+      "K-Best": 9.0,
+      "Mutual Info": 19.0,
+      "PCA": 5.0
+    },
+    {
+      "Date": "2024-09-29",
+      "Overall Rank": 16.0,
+      "Random Forest": 47.0,
+      "XG Boost": 33.0,
+      "K-Best": 11.0,
+      "Mutual Info": 18.0,
+      "PCA": 5.0
+    },
+    {
+      "Date": "2024-10-30",
+      "Overall Rank": 14.0,
+      "Random Forest": 45.0,
+      "XG Boost": 26.0,
+      "K-Best": 12.0,
+      "Mutual Info": 21.0,
+      "PCA": 5.0
+    },
+    {
+      "Date": "2024-11-29",
+      "Overall Rank": 16.0,
+      "Random Forest": 46.0,
+      "XG Boost": 23.0,
+      "K-Best": 12.0,
+      "Mutual Info": 21.0,
+      "PCA": 5.0
+    },
+    {
+      "Date": "2024-12-30",
+      "Overall Rank": 17.0,
+      "Random Forest": 49.0,
+      "XG Boost": 36.0,
+      "K-Best": 12.0,
+      "Mutual Info": 21.0,
+      "PCA": 5.0
+    }
+  ],
+  "sizeFactor": [
+    {
+      "Date": "2024-01-30",
+      "Overall Rank": 9.0,
+      "Random Forest": 36.0,
+      "XG Boost": 10.0,
+      "K-Best": 5.0,
+      "Mutual Info": 27.0,
+      "PCA": 4.0
+    },
+    {
+      "Date": "2024-02-28",
+      "Overall Rank": 11.0,
+      "Random Forest": 42.0,
+      "XG Boost": 11.0,
+      "K-Best": 5.0,
+      "Mutual Info": 26.0,
+      "PCA": 4.0
+    },
+    {
+      "Date": "2024-03-30",
+      "Overall Rank": 9.0,
+      "Random Forest": 42.0,
+      "XG Boost": 12.0,
+      "K-Best": 2.0,
+      "Mutual Info": 27.0,
+      "PCA": 4.0
+    },
+    {
+      "Date": "2024-04-29",
+      "Overall Rank": 9.0,
+      "Random Forest": 43.0,
+      "XG Boost": 13.0,
+      "K-Best": 2.0,
+      "Mutual Info": 27.0,
+      "PCA": 4.0
+    },
+    {
+      "Date": "2024-05-30",
+      "Overall Rank": 9.0,
+      "Random Forest": 49.0,
+      "XG Boost": 9.0,
+      "K-Best": 2.0,
+      "Mutual Info": 27.0,
+      "PCA": 4.0
+    },
+    {
+      "Date": "2024-06-29",
+      "Overall Rank": 20.0,
+      "Random Forest": 51.0,
+      "XG Boost": 30.0,
+      "K-Best": 2.0,
+      "Mutual Info": 28.0,
+      "PCA": 4.0
+    },
+    {
+      "Date": "2024-07-30",
+      "Overall Rank": 20.0,
+      "Random Forest": 29.0,
+      "XG Boost": 45.0,
+      "K-Best": 6.0,
+      "Mutual Info": 28.0,
+      "PCA": 4.0
+    },
+    {
+      "Date": "2024-08-30",
+      "Overall Rank": 8.0,
+      "Random Forest": 26.0,
+      "XG Boost": 3.0,
+      "K-Best": 5.0,
+      "Mutual Info": 28.0,
+      "PCA": 4.0
+    },
+    {
+      "Date": "2024-09-29",
+      "Overall Rank": 10.0,
+      "Random Forest": 36.0,
+      "XG Boost": 7.0,
+      "K-Best": 6.0,
+      "Mutual Info": 28.0,
+      "PCA": 4.0
+    },
+    {
+      "Date": "2024-10-30",
+      "Overall Rank": 20.0,
+      "Random Forest": 34.0,
+      "XG Boost": 35.0,
+      "K-Best": 6.0,
+      "Mutual Info": 27.0,
+      "PCA": 4.0
+    },
+    {
+      "Date": "2024-11-29",
+      "Overall Rank": 10.0,
+      "Random Forest": 38.0,
+      "XG Boost": 11.0,
+      "K-Best": 6.0,
+      "Mutual Info": 27.0,
+      "PCA": 4.0
+    },
+    {
+      "Date": "2024-12-30",
+      "Overall Rank": 11.0,
+      "Random Forest": 36.0,
+      "XG Boost": 6.0,
+      "K-Best": 6.0,
+      "Mutual Info": 28.0,
+      "PCA": 4.0
+    }
+  ],
+  "slope": [
+    {
+      "Date": "2024-01-30",
+      "Overall Rank": 7.0,
+      "Random Forest": 1.0,
+      "XG Boost": 40.0,
+      "K-Best": 1.0,
+      "Mutual Info": 18.0,
+      "PCA": 14.0
+    },
+    {
+      "Date": "2024-02-28",
+      "Overall Rank": 5.0,
+      "Random Forest": 1.0,
+      "XG Boost": 10.0,
+      "K-Best": 1.0,
+      "Mutual Info": 18.0,
+      "PCA": 15.0
+    },
+    {
+      "Date": "2024-03-30",
+      "Overall Rank": 7.0,
+      "Random Forest": 1.0,
+      "XG Boost": 22.0,
+      "K-Best": 1.0,
+      "Mutual Info": 17.0,
+      "PCA": 12.0
+    },
+    {
+      "Date": "2024-04-29",
+      "Overall Rank": 4.0,
+      "Random Forest": 1.0,
+      "XG Boost": 9.0,
+      "K-Best": 1.0,
+      "Mutual Info": 18.0,
+      "PCA": 12.0
+    },
+    {
+      "Date": "2024-05-30",
+      "Overall Rank": 7.0,
+      "Random Forest": 1.0,
+      "XG Boost": 48.0,
+      "K-Best": 1.0,
+      "Mutual Info": 18.0,
+      "PCA": 12.0
+    },
+    {
+      "Date": "2024-06-29",
+      "Overall Rank": 5.0,
+      "Random Forest": 1.0,
+      "XG Boost": 21.0,
+      "K-Best": 1.0,
+      "Mutual Info": 15.0,
+      "PCA": 12.0
+    },
+    {
+      "Date": "2024-07-30",
+      "Overall Rank": 4.0,
+      "Random Forest": 1.0,
+      "XG Boost": 15.0,
+      "K-Best": 1.0,
+      "Mutual Info": 16.0,
+      "PCA": 13.0
+    },
+    {
+      "Date": "2024-08-30",
+      "Overall Rank": 30.0,
+      "Random Forest": 9.0,
+      "XG Boost": 21.0,
+      "K-Best": 57.0,
+      "Mutual Info": 20.0,
+      "PCA": 55.0
+    },
+    {
+      "Date": "2024-09-29",
+      "Overall Rank": 5.0,
+      "Random Forest": 1.0,
+      "XG Boost": 16.0,
+      "K-Best": 1.0,
+      "Mutual Info": 15.0,
+      "PCA": 14.0
+    },
+    {
+      "Date": "2024-10-30",
+      "Overall Rank": 6.0,
+      "Random Forest": 1.0,
+      "XG Boost": 13.0,
+      "K-Best": 1.0,
+      "Mutual Info": 17.0,
+      "PCA": 15.0
+    },
+    {
+      "Date": "2024-11-29",
+      "Overall Rank": 9.0,
+      "Random Forest": 1.0,
+      "XG Boost": 22.0,
+      "K-Best": 1.0,
+      "Mutual Info": 15.0,
+      "PCA": 19.0
+    },
+    {
+      "Date": "2024-12-30",
+      "Overall Rank": 10.0,
+      "Random Forest": 1.0,
+      "XG Boost": 39.0,
+      "K-Best": 1.0,
+      "Mutual Info": 15.0,
+      "PCA": 21.0
+    }
+  ],
+  "tradingDays": [
+    {
+      "Date": "2024-01-30",
+      "Overall Rank": 11.0,
+      "Random Forest": 10.0,
+      "XG Boost": 13.0,
+      "K-Best": 17.0,
+      "Mutual Info": 30.0,
+      "PCA": 59.0
+    },
+    {
+      "Date": "2024-02-28",
+      "Overall Rank": 13.0,
+      "Random Forest": 9.0,
+      "XG Boost": 12.0,
+      "K-Best": 19.0,
+      "Mutual Info": 31.0,
+      "PCA": 54.0
+    },
+    {
+      "Date": "2024-03-30",
+      "Overall Rank": 23.0,
+      "Random Forest": 28.0,
+      "XG Boost": 3.0,
+      "K-Best": 17.0,
+      "Mutual Info": 31.0,
+      "PCA": 57.0
+    },
+    {
+      "Date": "2024-04-29",
+      "Overall Rank": 19.0,
+      "Random Forest": 26.0,
+      "XG Boost": 2.0,
+      "K-Best": 16.0,
+      "Mutual Info": 28.0,
+      "PCA": 58.0
+    },
+    {
+      "Date": "2024-05-30",
+      "Overall Rank": 12.0,
+      "Random Forest": 11.0,
+      "XG Boost": 4.0,
+      "K-Best": 16.0,
+      "Mutual Info": 28.0,
+      "PCA": 61.0
+    },
+    {
+      "Date": "2024-06-29",
+      "Overall Rank": 22.0,
+      "Random Forest": 18.0,
+      "XG Boost": 14.0,
+      "K-Best": 19.0,
+      "Mutual Info": 32.0,
+      "PCA": 61.0
+    },
+    {
+      "Date": "2024-07-30",
+      "Overall Rank": 10.0,
+      "Random Forest": 9.0,
+      "XG Boost": 14.0,
+      "K-Best": 30.0,
+      "Mutual Info": 37.0,
+      "PCA": 59.0
+    },
+    {
+      "Date": "2024-08-30",
+      "Overall Rank": 9.0,
+      "Random Forest": 6.0,
+      "XG Boost": 8.0,
+      "K-Best": 24.0,
+      "Mutual Info": 32.0,
+      "PCA": 60.0
+    },
+    {
+      "Date": "2024-09-29",
+      "Overall Rank": 12.0,
+      "Random Forest": 9.0,
+      "XG Boost": 14.0,
+      "K-Best": 25.0,
+      "Mutual Info": 32.0,
+      "PCA": 55.0
+    },
+    {
+      "Date": "2024-10-30",
+      "Overall Rank": 11.0,
+      "Random Forest": 8.0,
+      "XG Boost": 15.0,
+      "K-Best": 20.0,
+      "Mutual Info": 34.0,
+      "PCA": 35.0
+    },
+    {
+      "Date": "2024-11-29",
+      "Overall Rank": 11.0,
+      "Random Forest": 10.0,
+      "XG Boost": 12.0,
+      "K-Best": 18.0,
+      "Mutual Info": 34.0,
+      "PCA": 37.0
+    },
+    {
+      "Date": "2024-12-30",
+      "Overall Rank": 12.0,
+      "Random Forest": 9.0,
+      "XG Boost": 12.0,
+      "K-Best": 18.0,
+      "Mutual Info": 30.0,
+      "PCA": 35.0
+    }
+  ],
+  "turnover": [
+    {
+      "Date": "2024-01-30",
+      "Overall Rank": NaN,
+      "Random Forest": 33.0,
+      "XG Boost": 28.0,
+      "K-Best": 42.0,
+      "Mutual Info": 49.0,
+      "PCA": 37.0
+    },
+    {
+      "Date": "2024-02-28",
+      "Overall Rank": NaN,
+      "Random Forest": 21.0,
+      "XG Boost": 28.0,
+      "K-Best": 44.0,
+      "Mutual Info": 48.0,
+      "PCA": 37.0
+    },
+    {
+      "Date": "2024-03-30",
+      "Overall Rank": 12.0,
+      "Random Forest": 4.0,
+      "XG Boost": 15.0,
+      "K-Best": 37.0,
+      "Mutual Info": 49.0,
+      "PCA": 39.0
+    },
+    {
+      "Date": "2024-04-29",
+      "Overall Rank": 12.0,
+      "Random Forest": 5.0,
+      "XG Boost": 12.0,
+      "K-Best": 38.0,
+      "Mutual Info": 49.0,
+      "PCA": 39.0
+    },
+    {
+      "Date": "2024-05-30",
+      "Overall Rank": 14.0,
+      "Random Forest": 3.0,
+      "XG Boost": 13.0,
+      "K-Best": 44.0,
+      "Mutual Info": 52.0,
+      "PCA": 37.0
+    },
+    {
+      "Date": "2024-06-29",
+      "Overall Rank": 9.0,
+      "Random Forest": 13.0,
+      "XG Boost": 8.0,
+      "K-Best": 42.0,
+      "Mutual Info": 53.0,
+      "PCA": 35.0
+    },
+    {
+      "Date": "2024-07-30",
+      "Overall Rank": NaN,
+      "Random Forest": 26.0,
+      "XG Boost": 18.0,
+      "K-Best": 48.0,
+      "Mutual Info": 50.0,
+      "PCA": 37.0
+    },
+    {
+      "Date": "2024-08-30",
+      "Overall Rank": 25.0,
+      "Random Forest": 19.0,
+      "XG Boost": 12.0,
+      "K-Best": 50.0,
+      "Mutual Info": 49.0,
+      "PCA": 31.0
+    },
+    {
+      "Date": "2024-09-29",
+      "Overall Rank": NaN,
+      "Random Forest": 24.0,
+      "XG Boost": 24.0,
+      "K-Best": 47.0,
+      "Mutual Info": 50.0,
+      "PCA": 33.0
+    },
+    {
+      "Date": "2024-10-30",
+      "Overall Rank": 22.0,
+      "Random Forest": 30.0,
+      "XG Boost": 11.0,
+      "K-Best": 49.0,
+      "Mutual Info": 47.0,
+      "PCA": 36.0
+    },
+    {
+      "Date": "2024-11-29",
+      "Overall Rank": 23.0,
+      "Random Forest": 29.0,
+      "XG Boost": 7.0,
+      "K-Best": 49.0,
+      "Mutual Info": 46.0,
+      "PCA": 35.0
+    },
+    {
+      "Date": "2024-12-30",
+      "Overall Rank": 22.0,
+      "Random Forest": 27.0,
+      "XG Boost": 15.0,
+      "K-Best": 51.0,
+      "Mutual Info": 48.0,
+      "PCA": 37.0
+    }
+  ],
+  "turnoverRate": [
+    {
+      "Date": "2024-01-30",
+      "Overall Rank": 8.0,
+      "Random Forest": 15.0,
+      "XG Boost": 1.0,
+      "K-Best": 15.0,
+      "Mutual Info": 23.0,
+      "PCA": 23.0
+    },
+    {
+      "Date": "2024-02-28",
+      "Overall Rank": 10.0,
+      "Random Forest": 14.0,
+      "XG Boost": 1.0,
+      "K-Best": 15.0,
+      "Mutual Info": 23.0,
+      "PCA": 25.0
+    },
+    {
+      "Date": "2024-03-30",
+      "Overall Rank": 17.0,
+      "Random Forest": 32.0,
+      "XG Boost": 8.0,
+      "K-Best": 5.0,
+      "Mutual Info": 24.0,
+      "PCA": 18.0
+    },
+    {
+      "Date": "2024-04-29",
+      "Overall Rank": 28.0,
+      "Random Forest": 33.0,
+      "XG Boost": 18.0,
+      "K-Best": 5.0,
+      "Mutual Info": 23.0,
+      "PCA": 17.0
+    },
+    {
+      "Date": "2024-05-30",
+      "Overall Rank": 18.0,
+      "Random Forest": 35.0,
+      "XG Boost": 8.0,
+      "K-Best": 5.0,
+      "Mutual Info": 23.0,
+      "PCA": 17.0
+    },
+    {
+      "Date": "2024-06-29",
+      "Overall Rank": 16.0,
+      "Random Forest": 37.0,
+      "XG Boost": 11.0,
+      "K-Best": 5.0,
+      "Mutual Info": 23.0,
+      "PCA": 17.0
+    },
+    {
+      "Date": "2024-07-30",
+      "Overall Rank": 31.0,
+      "Random Forest": 22.0,
+      "XG Boost": 2.0,
+      "K-Best": 16.0,
+      "Mutual Info": 22.0,
+      "PCA": 23.0
+    },
+    {
+      "Date": "2024-08-30",
+      "Overall Rank": 32.0,
+      "Random Forest": 21.0,
+      "XG Boost": 44.0,
+      "K-Best": 12.0,
+      "Mutual Info": 24.0,
+      "PCA": 21.0
+    },
+    {
+      "Date": "2024-09-29",
+      "Overall Rank": 9.0,
+      "Random Forest": 13.0,
+      "XG Boost": 3.0,
+      "K-Best": 15.0,
+      "Mutual Info": 23.0,
+      "PCA": 24.0
+    },
+    {
+      "Date": "2024-10-30",
+      "Overall Rank": 29.0,
+      "Random Forest": 20.0,
+      "XG Boost": 3.0,
+      "K-Best": 16.0,
+      "Mutual Info": 23.0,
+      "PCA": 23.0
+    },
+    {
+      "Date": "2024-11-29",
+      "Overall Rank": 29.0,
+      "Random Forest": 20.0,
+      "XG Boost": 1.0,
+      "K-Best": 16.0,
+      "Mutual Info": 24.0,
+      "PCA": 28.0
+    },
+    {
+      "Date": "2024-12-30",
+      "Overall Rank": 27.0,
+      "Random Forest": 22.0,
+      "XG Boost": 2.0,
+      "K-Best": 17.0,
+      "Mutual Info": 24.0,
+      "PCA": 29.0
+    }
+  ],
+  "vola1m": [
+    {
+      "Date": "2024-01-30",
+      "Overall Rank": 16.0,
+      "Random Forest": 13.0,
+      "XG Boost": 33.0,
+      "K-Best": 43.0,
+      "Mutual Info": 3.0,
+      "PCA": 51.0
+    },
+    {
+      "Date": "2024-02-28",
+      "Overall Rank": 16.0,
+      "Random Forest": 11.0,
+      "XG Boost": 37.0,
+      "K-Best": 43.0,
+      "Mutual Info": 3.0,
+      "PCA": 50.0
+    },
+    {
+      "Date": "2024-03-30",
+      "Overall Rank": 25.0,
+      "Random Forest": 26.0,
+      "XG Boost": 38.0,
+      "K-Best": 50.0,
+      "Mutual Info": 2.0,
+      "PCA": 49.0
+    },
+    {
+      "Date": "2024-04-29",
+      "Overall Rank": 22.0,
+      "Random Forest": 21.0,
+      "XG Boost": 28.0,
+      "K-Best": 53.0,
+      "Mutual Info": 2.0,
+      "PCA": 51.0
+    },
+    {
+      "Date": "2024-05-30",
+      "Overall Rank": 26.0,
+      "Random Forest": 27.0,
+      "XG Boost": 33.0,
+      "K-Best": 18.0,
+      "Mutual Info": 2.0,
+      "PCA": 20.0
+    },
+    {
+      "Date": "2024-06-29",
+      "Overall Rank": 26.0,
+      "Random Forest": 31.0,
+      "XG Boost": 31.0,
+      "K-Best": 17.0,
+      "Mutual Info": 2.0,
+      "PCA": 19.0
+    },
+    {
+      "Date": "2024-07-30",
+      "Overall Rank": 3.0,
+      "Random Forest": 12.0,
+      "XG Boost": 54.0,
+      "K-Best": 5.0,
+      "Mutual Info": 3.0,
+      "PCA": 12.0
+    },
+    {
+      "Date": "2024-08-30",
+      "Overall Rank": 1.0,
+      "Random Forest": 12.0,
+      "XG Boost": 27.0,
+      "K-Best": 3.0,
+      "Mutual Info": 3.0,
+      "PCA": 11.0
+    },
+    {
+      "Date": "2024-09-29",
+      "Overall Rank": 3.0,
+      "Random Forest": 12.0,
+      "XG Boost": 41.0,
+      "K-Best": 5.0,
+      "Mutual Info": 3.0,
+      "PCA": 12.0
+    },
+    {
+      "Date": "2024-10-30",
+      "Overall Rank": 4.0,
+      "Random Forest": 12.0,
+      "XG Boost": 39.0,
+      "K-Best": 5.0,
+      "Mutual Info": 3.0,
+      "PCA": 13.0
+    },
+    {
+      "Date": "2024-11-29",
+      "Overall Rank": 4.0,
+      "Random Forest": 12.0,
+      "XG Boost": 46.0,
+      "K-Best": 5.0,
+      "Mutual Info": 3.0,
+      "PCA": 13.0
+    },
+    {
+      "Date": "2024-12-30",
+      "Overall Rank": 3.0,
+      "Random Forest": 11.0,
+      "XG Boost": 16.0,
+      "K-Best": 5.0,
+      "Mutual Info": 2.0,
+      "PCA": 13.0
+    }
+  ],
+  "vola1y": [
+    {
+      "Date": "2024-01-30",
+      "Overall Rank": 17.0,
+      "Random Forest": 11.0,
+      "XG Boost": 30.0,
+      "K-Best": 33.0,
+      "Mutual Info": 2.0,
+      "PCA": 44.0
+    },
+    {
+      "Date": "2024-02-28",
+      "Overall Rank": 23.0,
+      "Random Forest": 19.0,
+      "XG Boost": 26.0,
+      "K-Best": 33.0,
+      "Mutual Info": 1.0,
+      "PCA": 44.0
+    },
+    {
+      "Date": "2024-03-30",
+      "Overall Rank": 27.0,
+      "Random Forest": 33.0,
+      "XG Boost": 34.0,
+      "K-Best": 32.0,
+      "Mutual Info": 3.0,
+      "PCA": 46.0
+    },
+    {
+      "Date": "2024-04-29",
+      "Overall Rank": 24.0,
+      "Random Forest": 31.0,
+      "XG Boost": 24.0,
+      "K-Best": 32.0,
+      "Mutual Info": 3.0,
+      "PCA": 46.0
+    },
+    {
+      "Date": "2024-05-30",
+      "Overall Rank": 28.0,
+      "Random Forest": 30.0,
+      "XG Boost": 27.0,
+      "K-Best": 32.0,
+      "Mutual Info": 3.0,
+      "PCA": 49.0
+    },
+    {
+      "Date": "2024-06-29",
+      "Overall Rank": 12.0,
+      "Random Forest": 15.0,
+      "XG Boost": 32.0,
+      "K-Best": 34.0,
+      "Mutual Info": 3.0,
+      "PCA": 51.0
+    },
+    {
+      "Date": "2024-07-30",
+      "Overall Rank": 28.0,
+      "Random Forest": 18.0,
+      "XG Boost": 43.0,
+      "K-Best": 35.0,
+      "Mutual Info": 2.0,
+      "PCA": 48.0
+    },
+    {
+      "Date": "2024-08-30",
+      "Overall Rank": 13.0,
+      "Random Forest": 14.0,
+      "XG Boost": 20.0,
+      "K-Best": 38.0,
+      "Mutual Info": 2.0,
+      "PCA": 50.0
+    },
+    {
+      "Date": "2024-09-29",
+      "Overall Rank": 15.0,
+      "Random Forest": 14.0,
+      "XG Boost": 23.0,
+      "K-Best": 37.0,
+      "Mutual Info": 2.0,
+      "PCA": 47.0
+    },
+    {
+      "Date": "2024-10-30",
+      "Overall Rank": 25.0,
+      "Random Forest": 16.0,
+      "XG Boost": 19.0,
+      "K-Best": 37.0,
+      "Mutual Info": 2.0,
+      "PCA": 47.0
+    },
+    {
+      "Date": "2024-11-29",
+      "Overall Rank": 14.0,
+      "Random Forest": 13.0,
+      "XG Boost": 28.0,
+      "K-Best": 36.0,
+      "Mutual Info": 2.0,
+      "PCA": 48.0
+    },
+    {
+      "Date": "2024-12-30",
+      "Overall Rank": 16.0,
+      "Random Forest": 14.0,
+      "XG Boost": 24.0,
+      "K-Best": 36.0,
+      "Mutual Info": 3.0,
+      "PCA": 54.0
+    }
+  ],
+  "vola3m": [
+    {
+      "Date": "2024-01-30",
+      "Overall Rank": 24.0,
+      "Random Forest": 18.0,
+      "XG Boost": 22.0,
+      "K-Best": 49.0,
+      "Mutual Info": 1.0,
+      "PCA": 47.0
+    },
+    {
+      "Date": "2024-02-28",
+      "Overall Rank": 8.0,
+      "Random Forest": 12.0,
+      "XG Boost": 15.0,
+      "K-Best": 50.0,
+      "Mutual Info": 2.0,
+      "PCA": 47.0
+    },
+    {
+      "Date": "2024-03-30",
+      "Overall Rank": 26.0,
+      "Random Forest": 31.0,
+      "XG Boost": 44.0,
+      "K-Best": 42.0,
+      "Mutual Info": 1.0,
+      "PCA": 48.0
+    },
+    {
+      "Date": "2024-04-29",
+      "Overall Rank": 23.0,
+      "Random Forest": 29.0,
+      "XG Boost": 27.0,
+      "K-Best": 43.0,
+      "Mutual Info": 1.0,
+      "PCA": 49.0
+    },
+    {
+      "Date": "2024-05-30",
+      "Overall Rank": 27.0,
+      "Random Forest": 28.0,
+      "XG Boost": 44.0,
+      "K-Best": 40.0,
+      "Mutual Info": 1.0,
+      "PCA": 55.0
+    },
+    {
+      "Date": "2024-06-29",
+      "Overall Rank": 27.0,
+      "Random Forest": 22.0,
+      "XG Boost": 37.0,
+      "K-Best": 43.0,
+      "Mutual Info": 1.0,
+      "PCA": 56.0
+    },
+    {
+      "Date": "2024-07-30",
+      "Overall Rank": 27.0,
+      "Random Forest": 20.0,
+      "XG Boost": 31.0,
+      "K-Best": 54.0,
+      "Mutual Info": 1.0,
+      "PCA": 55.0
+    },
+    {
+      "Date": "2024-08-30",
+      "Overall Rank": 28.0,
+      "Random Forest": 18.0,
+      "XG Boost": 37.0,
+      "K-Best": 61.0,
+      "Mutual Info": 1.0,
+      "PCA": 57.0
+    },
+    {
+      "Date": "2024-09-29",
+      "Overall Rank": 14.0,
+      "Random Forest": 15.0,
+      "XG Boost": 44.0,
+      "K-Best": 61.0,
+      "Mutual Info": 1.0,
+      "PCA": 52.0
+    },
+    {
+      "Date": "2024-10-30",
+      "Overall Rank": 9.0,
+      "Random Forest": 17.0,
+      "XG Boost": 38.0,
+      "K-Best": 8.0,
+      "Mutual Info": 1.0,
+      "PCA": 12.0
+    },
+    {
+      "Date": "2024-11-29",
+      "Overall Rank": 7.0,
+      "Random Forest": 19.0,
+      "XG Boost": 41.0,
+      "K-Best": 7.0,
+      "Mutual Info": 1.0,
+      "PCA": 12.0
+    },
+    {
+      "Date": "2024-12-30",
+      "Overall Rank": 9.0,
+      "Random Forest": 20.0,
+      "XG Boost": 27.0,
+      "K-Best": 7.0,
+      "Mutual Info": 1.0,
+      "PCA": 12.0
+    }
+  ],
+  "vola5y": [
+    {
+      "Date": "2024-01-30",
+      "Overall Rank": 5.0,
+      "Random Forest": 9.0,
+      "XG Boost": 25.0,
+      "K-Best": 2.0,
+      "Mutual Info": 4.0,
+      "PCA": 19.0
+    },
+    {
+      "Date": "2024-02-28",
+      "Overall Rank": 4.0,
+      "Random Forest": 10.0,
+      "XG Boost": 19.0,
+      "K-Best": 2.0,
+      "Mutual Info": 4.0,
+      "PCA": 12.0
+    },
+    {
+      "Date": "2024-03-30",
+      "Overall Rank": 5.0,
+      "Random Forest": 30.0,
+      "XG Boost": 23.0,
+      "K-Best": 7.0,
+      "Mutual Info": 4.0,
+      "PCA": 14.0
+    },
+    {
+      "Date": "2024-04-29",
+      "Overall Rank": 7.0,
+      "Random Forest": 27.0,
+      "XG Boost": 49.0,
+      "K-Best": 8.0,
+      "Mutual Info": 4.0,
+      "PCA": 14.0
+    },
+    {
+      "Date": "2024-05-30",
+      "Overall Rank": 5.0,
+      "Random Forest": 29.0,
+      "XG Boost": 18.0,
+      "K-Best": 8.0,
+      "Mutual Info": 4.0,
+      "PCA": 14.0
+    },
+    {
+      "Date": "2024-06-29",
+      "Overall Rank": 2.0,
+      "Random Forest": 9.0,
+      "XG Boost": 54.0,
+      "K-Best": 8.0,
+      "Mutual Info": 4.0,
+      "PCA": 14.0
+    },
+    {
+      "Date": "2024-07-30",
+      "Overall Rank": 7.0,
+      "Random Forest": 21.0,
+      "XG Boost": 37.0,
+      "K-Best": 2.0,
+      "Mutual Info": 4.0,
+      "PCA": 14.0
+    },
+    {
+      "Date": "2024-08-30",
+      "Overall Rank": 14.0,
+      "Random Forest": 22.0,
+      "XG Boost": 53.0,
+      "K-Best": 16.0,
+      "Mutual Info": 4.0,
+      "PCA": 13.0
+    },
+    {
+      "Date": "2024-09-29",
+      "Overall Rank": 8.0,
+      "Random Forest": 18.0,
+      "XG Boost": 13.0,
+      "K-Best": 2.0,
+      "Mutual Info": 4.0,
+      "PCA": 16.0
+    },
+    {
+      "Date": "2024-10-30",
+      "Overall Rank": 13.0,
+      "Random Forest": 21.0,
+      "XG Boost": 40.0,
+      "K-Best": 2.0,
+      "Mutual Info": 4.0,
+      "PCA": 17.0
+    },
+    {
+      "Date": "2024-11-29",
+      "Overall Rank": 15.0,
+      "Random Forest": 16.0,
+      "XG Boost": 51.0,
+      "K-Best": 2.0,
+      "Mutual Info": 4.0,
+      "PCA": 16.0
+    },
+    {
+      "Date": "2024-12-30",
+      "Overall Rank": 4.0,
+      "Random Forest": 15.0,
+      "XG Boost": 55.0,
+      "K-Best": 2.0,
+      "Mutual Info": 4.0,
+      "PCA": 14.0
+    }
+  ]
+}
