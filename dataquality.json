@@ -209,8 +209,8 @@
         "meanDiff": 0.0000,
         "medianDiff": 0.0000,
         "stdDiff": 0.0000,
-        "ksStatistics": "",
-        "pValue": "",
+        "ksStatistics": null,
+        "pValue": null,
         "datapointsAdded": 0,
         "outliersCorrected": 6
       },
@@ -251,8 +251,8 @@
         "meanDiff": 0.0000,
         "medianDiff": 0.0000,
         "stdDiff": 0.0000,
-        "ksStatistics": "",
-        "pValue": "",
+        "ksStatistics": null,
+        "pValue": null,
         "datapointsAdded": 0,
         "outliersCorrected": 4
       },
@@ -293,8 +293,8 @@
         "meanDiff": 0.0000,
         "medianDiff": 0.0000,
         "stdDiff": 0.0000,
-        "ksStatistics": "",
-        "pValue": "",
+        "ksStatistics": null,
+        "pValue": null,
         "datapointsAdded": 0,
         "outliersCorrected": 3
       }
