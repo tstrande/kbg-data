@@ -84,7 +84,7 @@
         "Top50"
       ]
     },
-    "moodels": [
+    "models": [
       "Ensemble",
       "LGBM",
       "LSTM",
