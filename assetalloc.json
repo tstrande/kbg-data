@@ -47,7 +47,7 @@
         100.0,
         0.0,
         0.0,
-        "{\"weight_method\": \"EQUAL_WEIGHTED\", \"allocations\": {\"mcGroup\": {\"Large\": {\"Technology...anking\": \"growthRank\", \"order\": \"DESC\"}}}}"
+        "{\"allocations\": {\"mcGroup\": {\"Large\": {\"Technology...anking\": \"growthRank\", \"order\": \"DESC\"}}}}"
       ],
       [
         2,
@@ -69,7 +69,7 @@
         100.0,
         0.0,
         0.0,
-        "{\"weight_method\": \"EQUAL_WEIGHTED\", \"allocations\": {\"mcGroup\": {\"Large\": {\"Technology\": 0.3, \"Healthcare\": 0.2, \"Financials\": 0.1, \"Communication\": 0.1, \"ranking\": \"growthRank\", \"order\": \"DESC\"}, \"Mid\": {\"weight\": 0.2, \"ranking\": \"growthRank\", \"order\": \"DESC\"}, \"Small\": {\"weight\": 0.1, \"ranking\": \"growthRank\", \"order\": \"DESC\"}}}}"
+        "{\"allocations\": {\"mcGroup\": {\"Large\": {\"Technology\": 0.3, \"Healthcare\": 0.2, \"Financials\": 0.1, \"Communication\": 0.1, \"ranking\": \"growthRank\", \"order\": \"DESC\"}, \"Mid\": {\"weight\": 0.2, \"ranking\": \"growthRank\", \"order\": \"DESC\"}, \"Small\": {\"weight\": 0.1, \"ranking\": \"growthRank\", \"order\": \"DESC\"}}}}"
       ]
     ]
   }
