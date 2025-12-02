@@ -47,7 +47,7 @@
         100.0,
         0.0,
         0.0,
-        "{\"allocations\": {\"mcGroup\": {\"Large\": {\"weight\": 0.2, \"order\": \"DESC\"},  \"Mid\": {\"weight\": 0.2, \"ranking\": \"growthRank\", \"order\": \"DESC\"}, \"Small\": {\"weight\": 0.1, \"ranking\": \"growthRank\", \"order\": \"DESC\"}}}}"
+        "{\"allocations\": {\"mcGroup\": {\"Large\": {\"weight\": 0.7, \"order\": \"DESC\"},  \"Mid\": {\"weight\": 0.2, \"ranking\": \"growthRank\", \"order\": \"DESC\"}, \"Small\": {\"weight\": 0.1, \"ranking\": \"growthRank\", \"order\": \"DESC\"}}}}"
       ],
       [
         2,
